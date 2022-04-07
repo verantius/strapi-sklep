@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_seo_seos",
+  "info": {
+    "displayName": "SEO",
+    "icon": "frown"
+  },
+  "options": {},
+  "attributes": {
+    "keywords": {
+      "type": "string"
+    },
+    "descryption": {
+      "type": "text"
+    }
+  }
+}
